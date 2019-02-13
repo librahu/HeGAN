@@ -37,7 +37,7 @@ n_emb : The embedding size
 * pre_train/: The pre-trained node embeddings (Note: The dimension of pre-trained node embeddings should equal n_emb)
 
 ## Data 
-We privode three datasets: [DBLP](https://github.com/librahu/Heterogeneous-Information-Network-Datasets-for-Recommendation-and-Network-Embedding/tree/master/DBLP), [Yelp](https://github.com/librahu/Heterogeneous-Information-Network-Datasets-for-Recommendation-and-Network-Embedding/tree/master/Yelp_2) and [Aminer](https://github.com/librahu/Heterogeneous-Information-Network-Datasets-for-Recommendation-and-Network-Embedding/tree/master/Aminer), The detailed description of the three datasets can refer to https://github.com/librahu/Heterogeneous-Information-Network-Datasets-for-Recommendation-and-Network-Embedding
+We provide three datasets: [DBLP](https://github.com/librahu/Heterogeneous-Information-Network-Datasets-for-Recommendation-and-Network-Embedding/tree/master/DBLP), [Yelp](https://github.com/librahu/Heterogeneous-Information-Network-Datasets-for-Recommendation-and-Network-Embedding/tree/master/Yelp_2) and [Aminer](https://github.com/librahu/Heterogeneous-Information-Network-Datasets-for-Recommendation-and-Network-Embedding/tree/master/Aminer), The detailed description of the three datasets can refer to https://github.com/librahu/Heterogeneous-Information-Network-Datasets-for-Recommendation-and-Network-Embedding
 
 ### The format of input training data
 * Each line: source_node target_node relation
