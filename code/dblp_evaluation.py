@@ -12,7 +12,7 @@ class DBLP_evaluation():
     def __init__(self):
         self.author2id = {}
         self.author_num = 0
-        with open('../data/dblp/author_map_id.dat') as infile:
+        with open('../data/dblp_author_map_id.dat') as infile:
             for line in infile.readlines():
                 id, author = line.strip().split('\t')[:2]
                 id = int(id) - 1
@@ -25,7 +25,7 @@ class DBLP_evaluation():
         #id - label
         self.author_label = {}
         self.sample_num = 0
-        with open('../data/dblp/author_label.dat') as infile:
+        with open('../data/dblp_author_label.dat') as infile:
             for line in infile.readlines():
                 author, label = line.strip().split('\t')[:2]
                 author = int(author)
