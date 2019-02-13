@@ -64,7 +64,7 @@ python he_gan.py
 
 @inproceedings{
 
-> author = {Binbin Hu, Yuan Fangand Chuan Shi.},
+> author = {Binbin Hu, Yuan Fang and Chuan Shi.},
  
 > title = {Adversarial Learning on Heterogeneous Information Network},
  
