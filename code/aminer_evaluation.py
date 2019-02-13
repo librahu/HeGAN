@@ -12,7 +12,7 @@ class Aminer_evaluation():
         #id - label
         self.paper_label = {}
         self.sample_num = 0
-        with open('../data/aminer/paper_label.dat') as infile:
+        with open('../data/aminer_paper_label.dat') as infile:
             for line in infile.readlines():
                 paper, label = line.strip().split('\t')[:2]
                 paper = int(paper)
