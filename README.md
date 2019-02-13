@@ -71,7 +71,7 @@ python he_gan.py
 <!--
 > booktitle = {Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
  
-> year = {2018},
+> year = {2019},
  
 > url = {https://dl.acm.org/citation.cfm?id=3219965},
  
@@ -79,6 +79,9 @@ python he_gan.py
 
 > address = {London, United Kingdom},
 -->
+
+> year = {2019},
+
 > keywords = {Heterogeneous Information Network, Network Embedding, Generative Adversarial Network},
  
 }
