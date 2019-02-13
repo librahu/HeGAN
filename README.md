@@ -30,7 +30,7 @@ n_emb : The embedding size
 
 * data/: The training data
 
-* result/: The learned embeddings of generator ane discriminator.
+* results/: The learned embeddings of generator ane discriminator.
 
 * code/: The source codes
 
