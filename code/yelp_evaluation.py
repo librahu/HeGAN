@@ -16,7 +16,7 @@ class Yelp_evaluation():
         #id - label
         self.business_label = {}
         self.sample_num = 0
-        with open('../data/yelp/business_category.txt') as infile:
+        with open('../data/yelp_business_category.txt') as infile:
             for line in infile.readlines():
                 business, label = line.strip().split()[:2]
                 business = int(business)
