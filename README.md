@@ -1,5 +1,5 @@
 # HeGAN
-Source code for paper "Adversarial Learning on Heterogeneous Information Network"
+Source code for paper "Adversarial Learning on Heterogeneous Information Network (KDD2019)"
 
 ## Evironment Setting
 
@@ -68,17 +68,13 @@ python he_gan.py
  
 > title = {Adversarial Learning on Heterogeneous Information Network},
  
-<!--
-> booktitle = {Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
+> booktitle = {Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
  
 > year = {2019},
  
-> url = {https://dl.acm.org/citation.cfm?id=3219965},
- 
 > publisher = {ACM},
 
-> address = {London, United Kingdom},
--->
+> address = {Anchorage, Alaska, USA},
 
 > year = {2019},
 
